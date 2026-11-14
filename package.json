@@ -1,3 +1,4 @@
+
 {
   "name": "ultron-pro-agent",
   "version": "1.0.0",
@@ -9,6 +10,7 @@
   "dependencies": {
     "@capacitor/android": "^8.0.0",
     "@capacitor/core": "^8.0.0",
+    "cookie-parser": "^1.4.7",
     "dotenv": "^16.4.7",
     "express": "^5.1.0",
     "openai": "^6.0.0"
